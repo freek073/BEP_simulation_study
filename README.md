@@ -1,5 +1,5 @@
 # Simulation study EFA vs PFA
-### Bachelor end project Freek van Loon 
+### Bachelor end project  
 
 ## Project description: 
 In this project i'll do a simulation study where I'll compare exploratory factor analysis (EFA) and penelized factor analyis (PFA).
